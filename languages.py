@@ -1,0 +1,1 @@
+print("English, Spanish, Japanese, Latin")
