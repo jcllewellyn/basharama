@@ -1,2 +1,5 @@
 print("Hello World")
 print("Hi")
+print("Salve")
+print("Konichiwa")
+print("Kemosabe")
